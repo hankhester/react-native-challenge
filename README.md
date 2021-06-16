@@ -20,3 +20,6 @@ Tested on both ios and android.
 Let me know if you have any questions!
 
 \- Hank
+
+Screenshots from the app running on an iphone:
+<img width="823" alt="image" src="https://user-images.githubusercontent.com/19683507/122145275-cb8d6180-ce09-11eb-8eac-7093adc0692a.png">
